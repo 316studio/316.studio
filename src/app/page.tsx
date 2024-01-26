@@ -14,6 +14,20 @@ export default function Home() {
           priority
         />
       </div>
+      <a
+        href="https://wa.me/message/TVUPZTIHGS7ZF1"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <Image
+          className={styles.logo}
+          src="/whatsapp-cta-fr.svg"
+          alt="Discutez avec nous sur WhatsApp"
+          width={250}
+          height={77}
+          priority
+        />
+      </a>
     </main>
   );
 }
