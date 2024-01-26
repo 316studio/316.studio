@@ -7,7 +7,7 @@ export default function Home() {
       <div className={styles.center}>
         <Image
           className={styles.logo}
-          src="/316-logo.png"
+          src="/316-logo.svg"
           alt="316 Studio"
           width={500}
           height={500}
